@@ -10,3 +10,7 @@
 
 ### Version de la aplicacion
   Esta es la primera version de esta hemosa aplicacion la version basica, ya despues subiremos otras versiones mas y mejores acabadas.
+
+  ### Creador
+    Haisel Ramirez Brito @BritoRamirez
+    haiselramirez@gmail.com
