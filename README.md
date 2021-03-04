@@ -9,4 +9,4 @@
   Esta echo con JavaScript puro, un poco de CSS y HTML, pero la logica completa esta en JavaScript
 
 ### Version de la aplicacion
-  Esta es la primera version de esta hemosa aplicacion 
+  Esta es la primera version de esta hemosa aplicacion la version basica, ya despues subiremos otras versiones mas y mejores acabadas.
